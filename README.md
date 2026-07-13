@@ -2,10 +2,6 @@
 
 > An advanced Android Flashcard & Quiz Application built using **Android Studio** that helps users learn programming languages through interactive flashcards, quizzes, performance analytics, and progress tracking.
 
-<p align="center">
-  <img src="screenshots/banner.png" alt="FlashCard App Banner" width="100%">
-</p>
-
 ---
 
 ## ✨ Features
@@ -262,10 +258,6 @@ This project is licensed under the **MIT License**.
 **Kratika Yadav**
 
 Android Developer • Computer Science Student • Aspiring Software Engineer
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
 
 ---
 
